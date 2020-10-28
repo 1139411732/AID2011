@@ -1,0 +1,5 @@
+f = open('ling.txt', 'w+')
+f.write('nihao')
+f.seek(0, 0)
+data = f.read()
+print(data)

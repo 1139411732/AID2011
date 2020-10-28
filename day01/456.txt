@@ -1,0 +1,9 @@
+总用量 24
+drwxr-xr-x 2 tarena tarena 4096 9月  28 09:28 123
+-rw-rw-rw- 1 tarena tarena   45 9月  28 09:37 123.py
+-rw-r--r-- 1 tarena tarena  179 9月  28 08:49 1.tar.gz
+-rw-r--r-- 1 tarena tarena  194 9月  28 09:42 456.tar.gz
+-rw-r--r-- 1 tarena tarena    0 9月  28 10:24 456.txt
+drwxr-xr-x 3 tarena tarena 4096 9月  27 10:19 Linux
+drwxr-xr-x 3 tarena tarena 4096 9月  27 17:02 解压练习
+2020年 09月 28日 星期一 10:25:14 CST
